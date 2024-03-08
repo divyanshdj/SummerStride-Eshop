@@ -1,0 +1,13 @@
+/*-----------------------------------*\
+  #style.css
+\*-----------------------------------*/
+
+/* copyright 2024, Divyansh Jain */
+
+@font-face {
+  font-family: 'ClashDisplay';
+  src: url('../fonts/ClashDisplay-Semibold.woff2') format('woff2');
+  font-weight: 600;
+  font-display: swap;
+  font-style: normal;
+}
