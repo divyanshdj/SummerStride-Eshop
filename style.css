@@ -12,11 +12,11 @@
   --bg-white: hsla(0, 0%, 100%, 1);
   --bg-gainsboro: hsla(154, 10%, 86%, 1);
   --bg-wild-blue-yonder: hsla(227, 39%, 75%, 1);
-  --bg-orange-crayola: hsla(18, 97%, 62%, 1);
+  --bg-orange-crayola: hsla(250, 39%, 75%, 1);
   --bg-roman-silver-alpha-30: hsla(210, 9%, 57%, 0.3);
 
   /* text color */
-  --text-orange-crayola: hsla(18, 97%, 62%, 1);
+  --text-orange-crayola: hsla(250, 45%, 50%, 1);
   --text-blue-crayola: hsla(216, 98%, 52%, 1);
   --text-eerie-black: hsla(210, 11%, 15%, 1);
   --text-eerie-black-2: hsla(0, 0%, 7%, 1);
