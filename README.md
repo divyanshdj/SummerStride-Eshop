@@ -6,8 +6,6 @@
 
 </div>
 <div align="left">
-  <br />
-  <br />
 
   # Summer Stride Men's Wear
 
