@@ -11,7 +11,7 @@
 
   Summer Stride is a fully responsive ecommerce website, Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  Check out the live demo of the website here  <a href="https://summer-stride-eshop.netlify.app/"><strong>➥ Live Demo</strong></a>
+  Explore Here :   <a href="https://summer-stride-eshop.netlify.app/"><strong>➥ Live Demo</strong></a>
 
 ## Features
 
@@ -25,9 +25,7 @@
 
 <div align="left">
 
-## Contacts
-
-If you want to contact with me you can reach me at :-
+## Contact Me
   
   [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyansh-jain-29712726b)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyanshjain749@gmail.com)
