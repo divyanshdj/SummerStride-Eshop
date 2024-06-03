@@ -1,6 +1,7 @@
 <div align="center">
   
   ![GitHub repo size](https://img.shields.io/github/repo-size/divyanshdj/summerstride-eshop)
+  ![GitHub language count](https://img.shields.io/github/languages/count/divyanshdj/summerstride-eshop)
   ![GitHub stars](https://img.shields.io/github/stars/divyanshdj/summerstride-eshop?style=social)
 
 </div>
@@ -8,21 +9,27 @@
   <br />
   <br />
 
-  <h2>Summer Stride Men's Wear</h2>
+  # Summer Stride Men's Wear
 
   Summer Stride is a fully responsive ecommerce website, Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://summer-stride-eshop.netlify.app/"><strong>➥ Live Demo</strong></a>
+  Check out the live demo of the website here  <a href="https://summer-stride-eshop.netlify.app/"><strong>➥ Live Demo</strong></a>
+
+## Features
+
+- **Responsive Design**: The website is fully responsive and adapts to all screen sizes, ensuring a seamless shopping experience on any device.
+- **Modern Technologies**: Built using the latest web technologies, including HTML, CSS, and JavaScript.
+- **User-Friendly Interface**: A clean and intuitive interface makes it easy for users to navigate and find what they are looking for.
+- **Stylish Layout**: Visually appealing design with an emphasis on aesthetics and usability.
+- **Fast Load Times**: Optimized for quick loading times, ensuring a smooth and enjoyable browsing experience.
 
 </div>
 
 <div align="left">
 
-<br />
-
 ## Contacts
 
-<h6><i>If you want to contact with me you can reach me at :-</i></h6>
+If you want to contact with me you can reach me at :-
   
   [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyansh-jain-29712726b)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyanshjain749@gmail.com)
