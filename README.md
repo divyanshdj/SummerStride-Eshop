@@ -11,7 +11,7 @@
 
   Summer Stride is a fully responsive ecommerce website, Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  Explore Here :   <a href="https://summer-stride-eshop.netlify.app/"><strong>➥ Live Demo</strong></a>
+  Explore Here :   <a href="https://summer-stride-eshop.netlify.app/" target="_blank"><strong>➥ Live Demo</strong></a>
 
 ## Features
 
